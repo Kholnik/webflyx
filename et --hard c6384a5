@@ -1,0 +1,14 @@
+* [33m470b4b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m Fear is the mind-killer.
+* [33mf0e3a7e[m The spice must flow.
+* [33m2f06408[m I:
+* [33md5acf19[m H:
+* [33mc6384a5[m[33m ([m[1;32mmain[m[33m)[m D: Add some changes
+* [33ma690f5d[m G: adding movie title
+*   [33mb8fb436[m F: Merge branch 'add_classics'
+[32m|[m[33m\[m  
+[32m|[m * [33m0d2de10[m D: Add classics.csv
+* [33m|[m [33m6cc887e[m E: commiting contents.md
+[33m|[m[33m/[m  
+* [33m61cc0b3[m C: add quotes
+* [33m0e0a91d[m B: add titles
+* [33mbd20088[m A: add contents.md
